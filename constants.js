@@ -1,1 +1,1 @@
-export const STABILITY_URL = 'https://stabilitybtc.com/'
+export const STABILITY_URL = 'https://api.stabilitybtc.com/'
